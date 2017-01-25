@@ -1,4 +1,4 @@
-This is a training course for developers looking to learn React. It is a part 2 of a 3 part seriese for learning the entire React+Redux ecosystem to create production ready apps.
+This is a training course for developers looking to learn React + Redux. It is a part 3 of a 3 part seriese for learning the entire React+Redux ecosystem to create production ready apps.
 
 To run the project:
 
