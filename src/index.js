@@ -7,6 +7,9 @@ import { createStore, combineReducers, applyMiddleware } from 'redux'
 import { Provider } from 'react-redux'
 import ReduxThunk from 'redux-thunk'
 import 'tachyons';
+// import createLogger from 'redux-logger';
+
+// const logger = createLogger();
 
 const rootReducers = combineReducers({robotsSearch, robotsRequest})
 
